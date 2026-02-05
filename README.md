@@ -1,6 +1,27 @@
 # Top-Conference-Best-Papers
 This repo collects Best Paper award papers from ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, AAAI, etc., from 2022 to 2026.
 
+
+## Preface
+
+I put this repo together for a simple reason: as a young researcher, I want to develop better research taste.
+
+Reading these Best Paper winners made one thing obvious to me. Compared to truly top-tier work, a lot of my past research still falls short in terms of framing, ambition, and real-world impact.
+
+To be honest, I used to mainly follow papers in my own niche or whatever looked new and interesting. At conferences, I’d often skip orals and just go straight to posters I liked. I rarely paid attention to award papers. But after organizing and reviewing them, I realized they’re worth reading regularly even when they’re outside your exact area.
+
+One big benefit is getting a higher-level view of how the field evolves. You can start to see the shifts in trends and research styles, and then think more clearly about what might come next. Here’s a rough (and very personal) summary of the themes I noticed each year:
+
+- 2022: The foundation of modern generative AI and diffusion dominating the scene
+- 2023: Alignment concerns, emergence, and mechanistic understanding
+- 2024: Multimodal unification, self-improvement, and a return to linguistic perspectives
+- 2025: Deep safety, efficiency-first thinking, and early signs of homogenization
+- 2026: A new synthesis around logic, causality, and embodiment
+
+Another thing I’ve learned from these papers is craftsmanship. Many of them are extremely strong in writing and experimental design. They don’t just have a good idea; they explain why it matters, set up the story cleanly, and build experiments that can survive serious reviewer pushback. That’s a very different skill from simply polishing a “nice story” around something trivial. If you read too many of the latter, it’s easy to develop the wrong instincts.
+
+There are already similar repos on GitHub, but this one focuses more on the post-2022 “post-GPT era” and puts extra emphasis on NLP venues.
+
 ## How to use this list
 
 I’ve found this list is most useful if you go through it twice.
@@ -14,8 +35,6 @@ Pick papers close to your own area and read them carefully. The goal is not to c
 If you do both passes, you get two things at once: a better sense of the field’s direction, and a clearer standard for what “high-impact” work looks like.
 
 # Best Papers from Top-Conference
-
-
 
 ## ICLR
 
