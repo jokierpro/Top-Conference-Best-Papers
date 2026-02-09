@@ -1,39 +1,38 @@
 # Top-Conference-Best-Papers
-This repo collects Best Paper award papers from ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, AAAI, etc., from 2022 to 2026.
 
-## Preface
+A curated list of **Best Paper award** winners from top ML/NLP venues (ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, AAAI, and more), covering **2022–2026**.
 
-I put this repo together for a simple reason: as a young researcher, I want to develop better research taste.
+## Why this repo
 
-Reading these Best Paper winners made one thing obvious to me. Compared to truly top-tier work, a lot of my past research still falls short in terms of framing, ambition, and real-world impact.
+I built this repo to **develop better research taste** by studying what the community consistently recognizes as high-impact work. Award papers are often great references for:
 
-To be honest, I used to mainly follow papers in my own niche or whatever looked new and interesting. At conferences, I’d often skip orals and just go straight to posters I liked. I rarely paid attention to award papers. But after organizing and reviewing them, I realized they’re worth reading regularly even when they’re outside your exact area.
+* **Problem selection** (what’s considered important and timely)
+* **Technical framing** (what’s novel vs. incremental)
+* **Experimental rigor** (what survives reviewer pushback)
+* **Communication** (how strong ideas are presented clearly)
 
-One big benefit is getting a higher-level view of how the field evolves. You can start to see the shifts in trends and research styles, and then think more clearly about what might come next. Here’s a rough (and very personal) summary of the themes I noticed each year:
-
-- 2022: The foundation of modern generative AI and diffusion dominating the scene
-- 2023: Alignment concerns, emergence, and mechanistic understanding
-- 2024: Multimodal unification, self-improvement, and a return to linguistic perspectives
-- 2025: Deep safety, efficiency-first thinking, and early signs of homogenization
-- 2026: A new synthesis around logic, causality, and embodiment
-
-Another thing I’ve learned from these papers is craftsmanship. Many of them are extremely strong in writing and experimental design. They don’t just have a good idea; they explain why it matters, set up the story cleanly, and build experiments that can survive serious reviewer pushback. That’s a very different skill from simply polishing a “nice story” around something trivial. If you read too many of the latter, it’s easy to develop the wrong instincts.
-
-There are already similar repos on GitHub, but this one focuses more on the post-2022 “post-GPT era” and puts extra emphasis on NLP venues.
+Compared to similar lists, this repo focuses on the **post-2022 “post-GPT era”** and puts extra emphasis on **NLP venues**.
 
 ## How to use this list
 
-I’ve found this list is most useful if you go through it twice.
+I’ve found a two-pass approach works best:
 
-Pass 1: zoom out (build taste and spot trends).
-Skim broadly across years and venues, and use AI to quickly summarize for each paper: what area it’s in, what it actually does, the key takeaway, and most importantly, why it might have won. From that, you can sketch a simple “research map” of how topics and methods shift over time, what the top groups keep betting on, and where your own work sits relative to that.
+**Pass 1: Zoom out (trends + map).**
+Skim broadly across years and venues. Use AI to summarize each paper: the area, what it does, the key insight, and *why it might have won*. Then build a lightweight “research map” of shifting topics, methods, and recurring bets from top groups.
 
-Pass 2: zoom in (learn how winners think and write).
-Pick papers close to your own area and read them carefully. The goal is not to copy details, but to ask: “In the same problem space, why didn’t I think of this?” I like using an LLM to backtrack the likely chain of reasoning that led to the idea, then study how the paper frames the story and designs the experiments. Try to step back from the math and implementation and learn the author’s taste: what they chose to emphasize, what they cut, and how they made the contribution feel inevitable.
+**Pass 2: Zoom in (taste + craft).**
+Deep-read papers closest to your interests. Ask: “In the same problem space, why didn’t I think of this?” Use an LLM to reconstruct the likely reasoning path, then study how the authors frame the contribution and design the experiments. Focus on decisions, not just details.
 
-If you do both passes, you get two things at once: a better sense of the field’s direction, and a clearer standard for what “high-impact” work looks like.
+**Note:** To keep this list concise, I omitted most **Outstanding Paper** nominations since there are far more of them than Best Paper winners.
 
-Note: To keep this list concise and focused, I left out some Outstanding Paper nominations since there are far more of them than Best Paper winners.
+## TODO
+
+* [x] Add all 2026 papers
+* [ ] Add missing paper links
+* [ ] Add trend analysis based on this collection
+* [ ] Organize papers by subtopic
+
+---
 
 # Best Papers from Top-Conference
 
